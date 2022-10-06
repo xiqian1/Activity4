@@ -1,0 +1,15 @@
+D:\Documents\cs395\activity4\activity4\bin\Debug\net6.0\activity4.exe
+D:\Documents\cs395\activity4\activity4\bin\Debug\net6.0\activity4.deps.json
+D:\Documents\cs395\activity4\activity4\bin\Debug\net6.0\activity4.runtimeconfig.json
+D:\Documents\cs395\activity4\activity4\bin\Debug\net6.0\activity4.dll
+D:\Documents\cs395\activity4\activity4\bin\Debug\net6.0\activity4.pdb
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.csproj.AssemblyReference.cache
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.AssemblyInfoInputs.cache
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.AssemblyInfo.cs
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.csproj.CoreCompileInputs.cache
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.dll
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\refint\activity4.dll
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.pdb
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\activity4.genruntimeconfig.cache
+D:\Documents\cs395\activity4\activity4\obj\Debug\net6.0\ref\activity4.dll
